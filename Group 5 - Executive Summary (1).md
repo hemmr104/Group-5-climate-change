@@ -4,7 +4,7 @@ Climate change is increasing global temperatures through the accumulation of gre
 **Methods:**   
 To conduct this research we followed the methods of a systematic review (Figure 1). This involved developing search terms to input in five scientific databases. The papers generated were uploaded to the software Covidence. We also established criteria for selecting studies that will be included in the review and to reject the studies that do not fit the review. We sorted through available papers and found ten that fit the criteria. We then went through each study in depth and picked out information required for our analysis.
 
-![][image1]  
+![Alt text](Figure_1.png) 
 ***Figure 1:** A flow chart outlining the general steps we took to identify the 10 papers we used in our systematic review.*
 
 **Results:**   
